@@ -5,3 +5,6 @@ $$\<script>{&lt;input&gt;<!--}$$
 $$\<script>{&lt;button&gt;Test Button&lt;/button&gt;<!--}$$
 ## Textarea tag:
 $$\<script>{&lt;textarea&gt;Write something...&lt;/textarea&gt;<!--}$$
+
+
+<a href="https://evil.com">xss</a>
